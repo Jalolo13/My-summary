@@ -15,7 +15,6 @@ const Skills = () => {
                     <li className={styles.list__item}>HTML5</li>
                     <li className={styles.list__item}>CSS3 (SASS + SCSS)</li>
                     <li className={styles.list__item}>GIT</li>
-                    <li className={styles.list__item}>GIT</li>
                     <li className={styles.list__item}>React JS</li>
                     <li className={styles.list__item}>React Redux</li>
                     <li className={styles.list__item}>Next JS</li>
