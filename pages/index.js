@@ -22,7 +22,7 @@ const About = () => {
                             Front-end developer with one year of experience. I
                             working and learning TypeScript and Next JS now. I'm
                             communicative and know JS Native and React Native.
-                            Now i'm graduate in IT-Academy. 11th grade in
+                            Now i'm graduate in IT-Academy. Graduate in
                             Grammar School №29.
                         </p>
                     </div>
@@ -80,7 +80,7 @@ const About = () => {
                 <h2 className={styles.skills__titles}>Nationality</h2>
                 <p className={styles.about__strings}>Kyrgyz</p>
                 <h2 className={styles.skills__titles}>Date of birth</h2>
-                <p className={styles.about__strings}>2006-05-25</p>
+                <p className={styles.about__strings}>2004-05-25</p>
                 <h2 className={styles.skills__titles}>Phone number</h2>
                 <a href="tel:+996705705314" className={styles.about__strings}>
                     +996 (705) 705-314

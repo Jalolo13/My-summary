@@ -37,6 +37,12 @@ const Projects = () => {
                     >
                         <a className={styles.project__link}>Weather app</a>
                     </Link>
+                    <Link
+                        href="https://beauty-site.vercel.app"
+                        target="_blank"
+                    >
+                        <a className={styles.project__link}>Beauty</a>
+                    </Link>
                 </div>
             </div>
         </>
