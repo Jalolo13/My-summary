@@ -21,15 +21,18 @@ const Skills = () => {
                     <li className={styles.list__item}>AJAX</li>
                     <li className={styles.list__item}>React Redux</li>
                     <li className={styles.list__item}>Next JS</li>
+                    <li className={styles.list__item}>npm</li>
                 </ul>
                 <h2 className={styles.skills__titles}>Languages</h2>
                 <hr className={styles.hr} />
                 <ul>
                     <li className={styles.list__item}>
-                        English - Intermediate
+                        English - Pre-Intermediate
                     </li>
                     <li className={styles.list__item}>Russian - Proficiency</li>
-                    <li className={styles.list__item}>Kyrgyz - Intermediate</li>
+                    <li className={styles.list__item}>
+                        Kyrgyz - Pre-Intermediate
+                    </li>
                 </ul>
             </div>
         </>

@@ -21,9 +21,9 @@ const About = () => {
                         <p className={styles.about__text}>
                             Front-end developer with one year of experience. I
                             working and learning TypeScript and Next JS now. I'm
-                            communicative and know JS Native and React Native.
-                            Now i'm graduate in IT-Academy. 11th grade in
-                            Grammar School №29.
+                            communicative and know JS Native and React JS. Now
+                            i'm graduate in IT-Academy. 11th grade in Grammar
+                            School №29.
                         </p>
                     </div>
                     <Image
