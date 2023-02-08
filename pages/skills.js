@@ -22,6 +22,9 @@ const Skills = () => {
                     <li className={styles.list__item}>React Redux</li>
                     <li className={styles.list__item}>Next JS</li>
                     <li className={styles.list__item}>npm</li>
+                    <li className={styles.list__item}>TypeScript</li>
+                    <li className={styles.list__item}>Redux-Toolkit</li>
+                    <li className={styles.list__item}>frame-motion</li>
                 </ul>
                 <h2 className={styles.skills__titles}>Languages</h2>
                 <hr className={styles.hr} />
