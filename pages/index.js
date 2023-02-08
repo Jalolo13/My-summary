@@ -23,7 +23,10 @@ const About = () => {
                             working and learning TypeScript and Next JS now. I'm
                             communicative and know JS Native and React JS. Now
                             i'm graduate in IT-Academy. 11th grade in Grammar
-                            School №29.
+                            School №29. <p>
+
+                            Now I study German hard and I plan to move to Germany in a year.
+                            </p>
                         </p>
                     </div>
                     <Image
