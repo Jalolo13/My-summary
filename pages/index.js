@@ -20,12 +20,14 @@ const About = () => {
                         </h3>
                         <p className={styles.about__text}>
                             Front-end developer with one year of experience. I
-                            working and learning TypeScript and Next JS now. I'm
-                            communicative and know JS Native and React JS. Now
-                            i'm graduate in IT-Academy. 11th grade in Grammar
-                            School №29. <p>
-
-                            Now I study German hard and I plan to move to Germany in a year.
+                            am working and learning TypeScript and Next JS at
+                            the moment . I'm communicative and I have knowledge
+                            on JS Native and React JS. I have graduated
+                            IT-Academy. I am on 11th grade in Grammar School
+                            №29.
+                            <p>
+                                Now I am studying German hard and I am planning
+                                to move Germany in a year.
                             </p>
                         </p>
                     </div>
