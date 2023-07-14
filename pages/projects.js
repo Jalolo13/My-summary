@@ -37,8 +37,11 @@ const Projects = () => {
                     >
                         <a className={styles.project__link}>Weather app</a>
                     </Link>
+                    <Link href="https://beauty-site.vercel.app" target="_blank">
+                        <a className={styles.project__link}>Beauty</a>
+                    </Link>
                     <Link
-                        href="https://beauty-site.vercel.app"
+                        href="https://jalolo13.github.io/NFT/"
                         target="_blank"
                     >
                         <a className={styles.project__link}>Beauty</a>
