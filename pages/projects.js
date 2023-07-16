@@ -44,7 +44,7 @@ const Projects = () => {
                         href="https://jalolo13.github.io/NFT/"
                         target="_blank"
                     >
-                        <a className={styles.project__link}>Beauty</a>
+                        <a className={styles.project__link}>NFT</a>
                     </Link>
                 </div>
             </div>
