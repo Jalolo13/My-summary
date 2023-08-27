@@ -42,19 +42,6 @@ const About = () => {
                 <hr className={styles.hr} />
                 <ul>
                     <li className={styles.list__item}>
-                        <a
-                            href="https://instagram.com/jalil_ibragimov"
-                            target="_blank"
-                        >
-                            Instagram
-                        </a>
-                    </li>
-                    <li className={styles.list__item}>
-                        <a href="https://wa.me/+996705705314" target="_blank">
-                            WhatsApp
-                        </a>
-                    </li>
-                    <li className={styles.list__item}>
                         <a href="https://t.me/jalololo" target="_blank">
                             Telegram
                         </a>
