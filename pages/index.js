@@ -67,8 +67,6 @@ const About = () => {
                 >
                     jalololo13@gmail.com
                 </a>
-                <h2 className={styles.skills__titles}>Address</h2>
-                <p className={styles.about__strings}>Baytik-Baatyra 67-11</p>
                 <h2 className={styles.skills__titles}>Nationality</h2>
                 <p className={styles.about__strings}>Kyrgyz</p>
                 <h2 className={styles.skills__titles}>Date of birth</h2>
